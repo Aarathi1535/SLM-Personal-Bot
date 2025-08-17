@@ -22,3 +22,7 @@ The SLM is trained on:
 ---
 
 Yet to deploy, till then watch the demo here : https://youtu.be/ju_9lPn4Tys
+
+---
+
+My detailed blog on SLMs : https://medium.com/ai-in-plain-english/slm-vs-llm-the-rise-of-small-language-models-in-a-big-language-world-045b142235f6
