@@ -1,0 +1,114 @@
+{
+  "name": "Aarathisree Balla",
+  "email": "aarathisree.1535@gmail.com",
+  "phone": "+91 9381481266",
+  "links": {
+    "linkedin": "https://www.linkedin.com/in/aarathisree-balla-349b66284/",
+    "github": "https://github.com/Aarathi1535",
+    "hackerrank": "https://www.hackerrank.com/profile/aarathisree_1535",
+    "leetcode": "https://leetcode.com/u/aarathi_1535/",
+    "google_scholar": "https://scholar.google.com/citations?user=CiWAYEcAAAAJ&hl=en"
+  },
+  "summary": "Aspiring data science professional with strong skills in full-stack development, machine learning, and AI-based automation systems. Experienced in delivering high-accuracy solutions and optimizing workflows through advanced models and frameworks.",
+  "education": [
+    {
+      "institution": "Pragati Engineering College",
+      "degree": "B. Tech in Computer Science & Engineering (Data Science)",
+      "start_date": "Sept 2022",
+      "end_date": "May 2026",
+      "location": "Andhra Pradesh, India",
+      "cgpa": "9.43",
+      "relevant_coursework": [
+        "Data Science",
+        "DBMS",
+        "Operating Systems",
+        "Computer Networks",
+        "Data Mining"
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "TaraConnect",
+      "role": "Full Stack Developer",
+      "start_date": "February 2025",
+      "end_date": "April 2025",
+      "achievements": [
+        "Led the end-to-end development of a Django-MySQL application enabling 850+ brand-influencer collaborations.",
+        "Reduced onboarding time by 40% through real-time dashboards and secure workflow optimization."
+      ]
+    },
+    {
+      "company": "Society for Data Science",
+      "role": "Project and Research Intern",
+      "start_date": "April 2024",
+      "end_date": "October 2024",
+      "achievements": [
+        "Implemented a Gemini 1.5 Pro–based LLM-OCR system to automate answer sheet grading with 86.5% accuracy and 80% time reduction.",
+        "Fine-tuned evaluation logic for structured answer processing using OCR + prompt engineering."
+      ]
+    },
+    {
+      "company": "Infosys Springboard",
+      "role": "Python Developer Intern",
+      "start_date": "April 2024",
+      "end_date": "June 2024",
+      "achievements": [
+        "Developed a cheque processing pipeline using OpenCV and OCR, delivering 96% accuracy.",
+        "Automated SQL ingestion for 1000 records/month with a 35% drop in manual errors."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "ForgeryNet",
+      "technologies": ["Django", "SQLite3", "HTML", "CSS", "JavaScript", "ResNet", "OCR"],
+      "description": [
+        "Engineered a Django-based web application for automatic forged document detection, utilizing a ResNet deep learning model to achieve 85%+ classification accuracy.",
+        "Leveraged Tesseract OCR and OpenCV to enhance text extraction and preprocessing, boosting verification accuracy and efficiency by 30%."
+      ]
+    },
+    {
+      "name": "CropXpert",
+      "technologies": ["Python", "Machine Learning", "Flask", "Power BI", "Deep Learning", "HTML", "CSS", "JavaScript"],
+      "description": [
+        "Orchestrated a full-stack AI-driven platform integrating Decision Tree & Random Forest models.",
+        "Integrated pest detection using ResNet, achieving 93.5% accuracy, helping farmers optimize crop selection."
+      ]
+    },
+    {
+      "name": "TrustRank - Algorithm",
+      "technologies": ["Python", "VADER Sentiment (NLP)", "Machine Learning", "Streamlit"],
+      "description": [
+        "Created a trust-aware review ranking algorithm leveraging NLP, helpfulness, and time decay.",
+        "Outperformed traditional methods with a 0.93 Spearman correlation to ground truth rankings."
+      ]
+    }
+  ],
+  "technical_skills": {
+    "programming_languages": ["Python", "Java", "C", "SQL"],
+    "concepts": ["Data Structures & Algorithms", "OOPs"],
+    "frameworks_databases": ["Flask", "Streamlit", "Django", "MySQL", "MongoDB"],
+    "machine_learning_ai": ["Pandas", "Numpy", "Scikit-Learn", "Matplotlib", "Data Science", "Gemini AI", "OpenCV"],
+    "tools_technologies": ["Git", "VS Code", "Power BI", "HTML", "CSS"]
+  },
+  "publications": [
+    {
+      "title": "Revolutionizing the Future of Automated Subjective Answer Sheet Evaluation System with Machine Learning and LLMs",
+      "conference": "IEEE PuneCon 2024 International Conference",
+      "year": 2024,
+      "link": "https://ieeexplore.ieee.org/document/10895748"
+    }
+  ],
+  "certifications": [
+    "NPTEL IIT Madras: Python for Data Science (Elite)",
+    "NPTEL IIT Madras: The Joy of Computing using Python (Elite+Silver)",
+    "Salesforce: Certified AI Associate"
+  ],
+  "leadership_extracurricular": [
+    "Recipient of Merit Certificate for Academic Excellence",
+    "Campus Mantri at GeeksforGeeks (Aug 2024 - April 2025)",
+    "Student Volunteer at Society for Data Science",
+    "Contributor to Open-Source Projects: Hacktoberfest 2024, GirlScript Summer of Code 2024"
+  ]
+}
