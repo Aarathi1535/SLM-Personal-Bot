@@ -18,3 +18,7 @@ This project is my **Personal SLM Assistant** that helps me with:
 The SLM is trained on:
 - **My Resume Data** → so it knows my skills, projects, and experience.  
 - **My Idea Data** → so it can pitch my projects and startups naturally in emails or posts.
+
+---
+
+Yet to deploy, till then watch the demo here : https://youtu.be/ju_9lPn4Tys
