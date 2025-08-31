@@ -3,3 +3,5 @@ faiss-cpu
 sentence-transformers
 PyPDF2
 requests
+gunicorn==21.2.0
+
